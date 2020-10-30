@@ -1,0 +1,140 @@
+.bg-image{
+    background-image: url(../img/1.jpg);
+    height: 800px;
+    background-position: center;
+    max-width: 100%;
+    background-color: rgba(0, 0, 0, 0.712);
+    background-blend-mode: darken;
+}
+ul li a{
+    font-size: 18px;
+    font-weight: 300;
+}
+.headwrite{
+    padding-top: 200px;
+    
+}
+.headwrite .write span{
+    color:#E9B932;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.write h1{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+.pad{
+    padding: 7px 28px;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.livingroom{
+    margin: 80px;
+}
+.imgli{
+    height: 360px;
+    max-width: 100%;
+}
+.perfect{}
+.perfect span{
+    color:#E9B932;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.perfect h2{
+    font-size: 45px;
+    color: #000;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.perfect p{
+
+}
+.perfect a{}
+.perfect button{
+    text-transform: uppercase;
+    padding:08px 35px;
+}
+.perfect button:hover{
+    background-color:#1A1A1A;
+}
+.rooms{
+    background-color: #F9F9F9;
+    
+     
+}
+.col-md-3{
+    
+    height: 500px;
+}
+.people{}
+.people span{
+    color:#E9B932;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.rooms img:hover{
+    background-color:rgba(0, 0, 0, 0.548);
+    background-blend-mode: darken;
+}
+.people h3{
+    font-size: 45px;
+    color: #000;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.testmoinals button{
+    text-transform: uppercase;
+    padding: 8px 35px;
+}
+
+
+/*NEWS*/
+.spans{
+    color:#E9B932;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+/*NEWS ENDS*/
+/* LAST PART */
+.lastpart{
+    background-color:#1A1A1A ;
+    
+    
+}
+ul a{
+    text-transform: capitalize;
+    font-size: 12px;
+    color: #f9f9f998;
+}
+ul a:hover{
+    color:#fff;
+}
+.part1{
+    padding: 4px;
+    
+}
+.part1 a{
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.part1 a:hover{
+    color:#f9f9f959;
+}
+.icons small i{
+    font-size: 14px;
+    color: #fff;
+    padding-right: 20px;
+    border-radius: 30px;
+
+}
